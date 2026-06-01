@@ -10,3 +10,4 @@ captures/
 
 # OS specific
 .DS_Store
+gradle/gradle-daemon-jvm.properties
